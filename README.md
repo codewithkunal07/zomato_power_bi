@@ -34,11 +34,11 @@ To present key sales metrics in an intuitive visual format, helping stakeholders
 
 📂 Repository Structure
 ├── assets/
-│   └── sales_dashboard.jpeg      # Image of the dashboard
+│   └── sales_dashboard.jpeg      
 ├── data/
-│   └── sales_data.xlsx           # Raw dataset
-├── Sales_Dashboard.pbix         # Power BI file (optional)
-└── README.md                    # Project documentation
+│   └── sales_data.xlsx          
+├── Sales_Dashboard.pbix         
+└── README.md                   
 
 
 🧠 Insights Delivered
