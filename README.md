@@ -47,7 +47,6 @@ This dashboard allows users to:
 - Monitor overall sales growth
 - Adapt marketing strategies based on data insights
 
-- 
 📣 Author
 Kunal – Passionate about turning raw data into compelling visual stories.
 Connect with me on LinkedIn or check out more projects in my GitHub portfolio.
